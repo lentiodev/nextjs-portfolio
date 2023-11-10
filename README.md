@@ -1,30 +1,41 @@
-[![Watch tutorial here](https://img.youtube.com/vi/sUKptmUVIBM/0.jpg)](https://youtu.be/sUKptmUVIBM)
+# Lentio's Portfolio
 
-# [Watch video here](https://youtu.be/sUKptmUVIBM)
+## Introduction
+Hello, I'm Lentio, a Full Stack Developer with a passion for building end-to-end web applications. My expertise spans both front-end and back-end development, enabling me to create cohesive and functional web experiences. In this portfolio, you'll find a collection of my projects that showcase my abilities in designing user interfaces, implementing business logic, and managing databases in the realm of full-stack web development.
 
-## What you will learn
+## Projects
+Here are some of the projects I've worked on:
 
-- Latest Next.js 13 features
-- Next.js App Router
-- Next.js Server Actions
-- Client & Server Components
-- TypeScript (Beginner & Intermediate)
-- Tailwind CSS
-- Context API
-- Advanced Animations with Framer Motion
-- React.Email & Resend
-- Custom React hooks
-- Fresh, modern UI design
-- Light & Dark mode
-- Responsive website
+### Project 1: [Project Name]
+- **Description**: Briefly describe what the project does and its purpose.
+- **Technologies Used**: List the technologies, languages, frameworks, and tools used.
+- **Key Features**: Highlight some of the key features of the project.
+- **[Link to Project](URL to project repository or live project)**
 
-## Important
+### Project 2: [Project Name]
+- Description...
+- Technologies Used...
+- Key Features...
+- [Link to Project]
 
-If you want to be a professional developer, you have to know the fundamentals like JavaScript and CSS really well. I highly recommend you go through my [Professional JavaScript](https://bytegrad.com/courses/professional-javascript) and [Professional CSS](https://bytegrad.com/courses/professional-css) courses.
+(Continue listing other projects)
 
-I'm close to releasing a complete React & Next.js course. Get on the email list to receive early-bird pricing: [link](https://email.bytegrad.com/).
+## Skills
+- **Programming Languages**: [List languages e.g., Python, JavaScript, etc.]
+- **Frameworks and Tools**: [List frameworks and tools e.g., React, Node.js, Docker, etc.]
+- **Databases**: [List databases you are familiar with e.g., MySQL, MongoDB, etc.]
 
-## Setup
+## Education
+- [Your Degree], [University Name], [Year]
+- Relevant courses: [List any relevant courses you've taken]
 
-1. Add RESEND_API_KEY environment variable in .env.local
-2. In the send-email.ts action file, change the "to" email to your own email
+## Certifications
+- [Certification Name], [Issuing Organization], [Year]
+
+## Contact Me
+- **Email**: [Your Email]
+- **LinkedIn**: [Your LinkedIn Profile](Your LinkedIn URL)
+- **GitHub**: [Your GitHub Profile](Your GitHub URL)
+
+Feel free to reach out to me for collaborations or if you have any questions about my work!
+
